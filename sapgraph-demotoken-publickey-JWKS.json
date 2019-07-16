@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "4b213dc0-165e-4e4f-99a7-56b8a23473b9",
+      "value": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyICy7fTovTdSssZPORaA\nT4pqyww9tS+KY5fL91/MLtBctGizYXjAMLlDUCY6Bf6VRWolSRfg9GLNN1pQrxRj\nM2GgGyuno91m0RDeOuaydLEUJfrNMv+TuZ9msVfexEq6bIRIU3EI+V/U0DPMv9kB\nFeTMy/Pc3b9Sj//La0EgKJcTO5r8Xq0ejWieQpWzaPwa1AlB3jOIcqEwXsMJeoNO\nEy/sWboUqufaVzfJ/bt9L2a02U1RjOksCh9c+UVySMJrFpJGqAfmIL6O5lWkU1M/\n0ed59osiNptmtrfvzaXOLYm1YqxK2XAWGEwmP5S6+6nTD6hjh+mM1K70a74MLTdp\ncwIDAQAB\n-----END PUBLIC KEY-----",
+      "n": "yICy7fTovTdSssZPORaAT4pqyww9tS-KY5fL91_MLtBctGizYXjAMLlDUCY6Bf6VRWolSRfg9GLNN1pQrxRjM2GgGyuno91m0RDeOuaydLEUJfrNMv-TuZ9msVfexEq6bIRIU3EI-V_U0DPMv9kBFeTMy_Pc3b9Sj__La0EgKJcTO5r8Xq0ejWieQpWzaPwa1AlB3jOIcqEwXsMJeoNOEy_sWboUqufaVzfJ_bt9L2a02U1RjOksCh9c-UVySMJrFpJGqAfmIL6O5lWkU1M_0ed59osiNptmtrfvzaXOLYm1YqxK2XAWGEwmP5S6-6nTD6hjh-mM1K70a74MLTdpcw"
+    }
+  ]
+}
